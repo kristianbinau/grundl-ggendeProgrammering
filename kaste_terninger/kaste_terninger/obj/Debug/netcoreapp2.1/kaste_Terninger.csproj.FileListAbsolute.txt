@@ -1,0 +1,11 @@
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\bin\Debug\netcoreapp2.1\kaste_Terninger.deps.json
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\bin\Debug\netcoreapp2.1\kaste_Terninger.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\bin\Debug\netcoreapp2.1\kaste_Terninger.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\bin\Debug\netcoreapp2.1\kaste_Terninger.dll
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\bin\Debug\netcoreapp2.1\kaste_Terninger.pdb
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\obj\Debug\netcoreapp2.1\kaste_Terninger.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\obj\Debug\netcoreapp2.1\kaste_Terninger.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\obj\Debug\netcoreapp2.1\kaste_Terninger.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\obj\Debug\netcoreapp2.1\kaste_Terninger.dll
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\obj\Debug\netcoreapp2.1\kaste_Terninger.pdb
+C:\Users\Kristian Binau\source\repos\kaste_terninger\kaste_terninger\obj\Debug\netcoreapp2.1\kaste_Terninger.csprojAssemblyReference.cache
