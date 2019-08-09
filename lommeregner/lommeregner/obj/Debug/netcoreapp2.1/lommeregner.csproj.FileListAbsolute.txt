@@ -1,0 +1,11 @@
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\obj\Debug\netcoreapp2.1\lommeregner.csprojAssemblyReference.cache
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\obj\Debug\netcoreapp2.1\lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\obj\Debug\netcoreapp2.1\lommeregner.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\obj\Debug\netcoreapp2.1\lommeregner.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\bin\Debug\netcoreapp2.1\lommeregner.deps.json
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\bin\Debug\netcoreapp2.1\lommeregner.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\bin\Debug\netcoreapp2.1\lommeregner.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\bin\Debug\netcoreapp2.1\lommeregner.dll
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\bin\Debug\netcoreapp2.1\lommeregner.pdb
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\obj\Debug\netcoreapp2.1\lommeregner.dll
+C:\Users\Kristian Binau\source\repos\lommeregner\lommeregner\obj\Debug\netcoreapp2.1\lommeregner.pdb

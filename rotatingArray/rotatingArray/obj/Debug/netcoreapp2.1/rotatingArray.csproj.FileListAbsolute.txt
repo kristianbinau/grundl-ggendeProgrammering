@@ -1,0 +1,11 @@
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\obj\Debug\netcoreapp2.1\rotatingArray.csprojAssemblyReference.cache
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\obj\Debug\netcoreapp2.1\rotatingArray.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\obj\Debug\netcoreapp2.1\rotatingArray.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\obj\Debug\netcoreapp2.1\rotatingArray.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\bin\Debug\netcoreapp2.1\rotatingArray.deps.json
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\bin\Debug\netcoreapp2.1\rotatingArray.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\bin\Debug\netcoreapp2.1\rotatingArray.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\bin\Debug\netcoreapp2.1\rotatingArray.dll
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\bin\Debug\netcoreapp2.1\rotatingArray.pdb
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\obj\Debug\netcoreapp2.1\rotatingArray.dll
+C:\Users\Kristian Binau\source\repos\rotatingArray\rotatingArray\obj\Debug\netcoreapp2.1\rotatingArray.pdb

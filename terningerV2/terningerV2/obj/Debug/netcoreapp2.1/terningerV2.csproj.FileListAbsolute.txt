@@ -1,0 +1,11 @@
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\obj\Debug\netcoreapp2.1\terningerV2.csprojAssemblyReference.cache
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\obj\Debug\netcoreapp2.1\terningerV2.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\obj\Debug\netcoreapp2.1\terningerV2.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\obj\Debug\netcoreapp2.1\terningerV2.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\bin\Debug\netcoreapp2.1\terningerV2.deps.json
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\bin\Debug\netcoreapp2.1\terningerV2.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\bin\Debug\netcoreapp2.1\terningerV2.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\bin\Debug\netcoreapp2.1\terningerV2.dll
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\bin\Debug\netcoreapp2.1\terningerV2.pdb
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\obj\Debug\netcoreapp2.1\terningerV2.dll
+C:\Users\Kristian Binau\source\repos\terningerV2\terningerV2\obj\Debug\netcoreapp2.1\terningerV2.pdb

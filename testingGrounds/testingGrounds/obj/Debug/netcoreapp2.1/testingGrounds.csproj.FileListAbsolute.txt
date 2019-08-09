@@ -1,0 +1,10 @@
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\obj\Debug\netcoreapp2.1\testingGrounds.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\obj\Debug\netcoreapp2.1\testingGrounds.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\obj\Debug\netcoreapp2.1\testingGrounds.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\bin\Debug\netcoreapp2.1\testingGrounds.deps.json
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\bin\Debug\netcoreapp2.1\testingGrounds.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\bin\Debug\netcoreapp2.1\testingGrounds.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\bin\Debug\netcoreapp2.1\testingGrounds.dll
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\bin\Debug\netcoreapp2.1\testingGrounds.pdb
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\obj\Debug\netcoreapp2.1\testingGrounds.dll
+C:\Users\Kristian Binau\source\repos\testingGrounds\testingGrounds\obj\Debug\netcoreapp2.1\testingGrounds.pdb
