@@ -1,0 +1,11 @@
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\obj\Debug\netcoreapp2.1\Gange-tabel.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\obj\Debug\netcoreapp2.1\Gange-tabel.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\obj\Debug\netcoreapp2.1\Gange-tabel.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\bin\Debug\netcoreapp2.1\Gange-tabel.deps.json
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\bin\Debug\netcoreapp2.1\Gange-tabel.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\bin\Debug\netcoreapp2.1\Gange-tabel.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\bin\Debug\netcoreapp2.1\Gange-tabel.dll
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\bin\Debug\netcoreapp2.1\Gange-tabel.pdb
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\obj\Debug\netcoreapp2.1\Gange-tabel.dll
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\obj\Debug\netcoreapp2.1\Gange-tabel.pdb
+C:\Users\Kristian Binau\source\repos\Gange-tabel\Gange-tabel\obj\Debug\netcoreapp2.1\Gange-tabel.csprojAssemblyReference.cache

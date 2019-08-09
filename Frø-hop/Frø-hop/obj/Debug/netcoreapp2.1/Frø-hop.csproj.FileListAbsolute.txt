@@ -1,0 +1,11 @@
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\bin\Debug\netcoreapp2.1\Frø-hop.deps.json
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\bin\Debug\netcoreapp2.1\Frø-hop.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\bin\Debug\netcoreapp2.1\Frø-hop.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\bin\Debug\netcoreapp2.1\Frø-hop.dll
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\bin\Debug\netcoreapp2.1\Frø-hop.pdb
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\obj\Debug\netcoreapp2.1\Frø-hop.csprojAssemblyReference.cache
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\obj\Debug\netcoreapp2.1\Frø-hop.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\obj\Debug\netcoreapp2.1\Frø-hop.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\obj\Debug\netcoreapp2.1\Frø-hop.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\obj\Debug\netcoreapp2.1\Frø-hop.dll
+C:\Users\Kristian Binau\source\repos\Frø-hop\Frø-hop\obj\Debug\netcoreapp2.1\Frø-hop.pdb

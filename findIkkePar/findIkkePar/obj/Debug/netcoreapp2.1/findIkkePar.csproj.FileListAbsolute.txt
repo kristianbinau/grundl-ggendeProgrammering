@@ -1,0 +1,11 @@
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\bin\Debug\netcoreapp2.1\findIkkePar.deps.json
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\bin\Debug\netcoreapp2.1\findIkkePar.runtimeconfig.json
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\bin\Debug\netcoreapp2.1\findIkkePar.runtimeconfig.dev.json
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\bin\Debug\netcoreapp2.1\findIkkePar.dll
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\bin\Debug\netcoreapp2.1\findIkkePar.pdb
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\obj\Debug\netcoreapp2.1\findIkkePar.csprojAssemblyReference.cache
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\obj\Debug\netcoreapp2.1\findIkkePar.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\obj\Debug\netcoreapp2.1\findIkkePar.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\obj\Debug\netcoreapp2.1\findIkkePar.AssemblyInfo.cs
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\obj\Debug\netcoreapp2.1\findIkkePar.dll
+C:\Users\Kristian Binau\source\repos\findIkkePar\findIkkePar\obj\Debug\netcoreapp2.1\findIkkePar.pdb
