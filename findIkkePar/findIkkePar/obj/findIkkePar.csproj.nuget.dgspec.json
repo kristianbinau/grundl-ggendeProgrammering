@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\findIkkePar\\findIkkePar\\findIkkePar.csproj": {}
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkePar\\findIkkePar\\findIkkePar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\findIkkePar\\findIkkePar\\findIkkePar.csproj": {
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkePar\\findIkkePar\\findIkkePar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\findIkkePar\\findIkkePar\\findIkkePar.csproj",
+        "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkePar\\findIkkePar\\findIkkePar.csproj",
         "projectName": "findIkkePar",
-        "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\findIkkePar\\findIkkePar\\findIkkePar.csproj",
+        "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkePar\\findIkkePar\\findIkkePar.csproj",
         "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\findIkkePar\\findIkkePar\\obj\\",
+        "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkePar\\findIkkePar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

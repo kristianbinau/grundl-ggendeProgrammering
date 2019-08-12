@@ -42,19 +42,7 @@ namespace findIkkePar
             Console.WriteLine("Debug");
 
 
-            for (int n = 0; n < Array.Length; n++)
-            {
-                Console.WriteLine("DEBUG: Array:" + Array[n]);
-                for (int i = 0; i < allMatchArray.Length; i++)
-                {
-                    Console.WriteLine("DEBUG: MAtch:" + allMatchArray[i]);
-                    if (allMatchArray[i] == Array[n])
-                    {
 
-                    }
-                    else
-                    {
-                        Console.WriteLine(Array[n]);
                     }
                 }
 
