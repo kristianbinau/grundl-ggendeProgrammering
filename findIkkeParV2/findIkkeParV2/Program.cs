@@ -7,6 +7,7 @@ namespace findIkkeParV2
     {
         static void Main(string[] args)
         {
+            //TEST - INTET AF DET VIRKER
             Random num = new Random();
             int check = CheckIfOdd(num.Next(1, 1000000));
             int counter = 1;

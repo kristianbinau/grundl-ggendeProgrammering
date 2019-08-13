@@ -7,6 +7,7 @@ namespace findIkkePar
     {
         static void Main(string[] args)
         {
+            //Could not solve
             Console.WriteLine("findIkkePar");
 
             int[] Array = { 1, 4, 6, 1, 6, 9, 4 };

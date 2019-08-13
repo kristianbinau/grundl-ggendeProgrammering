@@ -6,6 +6,7 @@ namespace lommeregner
     {
         static void Main(string[] args)
         {
+            //Variables
             int num0;
             int num1;
             string stringOperation;
@@ -13,8 +14,10 @@ namespace lommeregner
             int output =' ';
             int done = 1;
 
+            //Uendelig loop
             while (done == 1)
             {
+                //User-input
                 Console.WriteLine("LOMMEREGNER");
                 Console.WriteLine("Instast det første tal: ");
                 num0 = int.Parse(Console.ReadLine());
@@ -23,6 +26,7 @@ namespace lommeregner
                 Console.WriteLine("Instast operatoren: ");
                 stringOperation = Console.ReadLine();
 
+                //Gør det muligt både og skrive "+" eller "addition"
                 if (stringOperation == "+" || stringOperation == "addition")
                 {
                     operation = 1;
@@ -44,6 +48,7 @@ namespace lommeregner
                     operation = 5;
                 }
 
+                //Laver regnestykket afhængigt af user-input
                 switch (operation)
                 {
                     case 1:

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\rotatingArray\\rotatingArray\\rotatingArray.csproj",
+      "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\rotatingArray\\rotatingArray\\rotatingArray.csproj",
       "projectName": "rotatingArray",
-      "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\rotatingArray\\rotatingArray\\rotatingArray.csproj",
+      "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\rotatingArray\\rotatingArray\\rotatingArray.csproj",
       "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\rotatingArray\\rotatingArray\\obj\\",
+      "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\rotatingArray\\rotatingArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

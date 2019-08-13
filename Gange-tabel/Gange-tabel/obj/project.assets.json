@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\Gange-tabel\\Gange-tabel\\Gange-tabel.csproj",
+      "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\Gange-tabel\\Gange-tabel\\Gange-tabel.csproj",
       "projectName": "Gange-tabel",
-      "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\Gange-tabel\\Gange-tabel\\Gange-tabel.csproj",
+      "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\Gange-tabel\\Gange-tabel\\Gange-tabel.csproj",
       "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\Gange-tabel\\Gange-tabel\\obj\\",
+      "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\Gange-tabel\\Gange-tabel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,6 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //Variables
             string firstName;
             string lastName;
             int age;
@@ -16,6 +17,7 @@ namespace HelloWorld
             int oldAge;
             int ageToOld;
 
+            //User-input
             Console.Write("Hvad er dit Fornavn: ");
             firstName = Console.ReadLine();
 
@@ -29,7 +31,7 @@ namespace HelloWorld
             gender = Console.ReadLine();
 
 
-
+            //Correcting formatting
             switch(gender)
                 {
                 case "mand":
@@ -63,15 +65,18 @@ namespace HelloWorld
                     charGender = 'k';
                     break;
             }
-/*
-            Console.WriteLine("Debug:");
-            Console.WriteLine(firstName);
-            Console.WriteLine(lastName);
-            Console.WriteLine(age);
-            Console.WriteLine(gender);
-            Console.WriteLine(charGender);
-*/
 
+            //Debug
+            /*
+                        Console.WriteLine("Debug:");
+                        Console.WriteLine(firstName);
+                        Console.WriteLine(lastName);
+                        Console.WriteLine(age);
+                        Console.WriteLine(gender);
+                        Console.WriteLine(charGender);
+            */
+
+            //User-input
             Console.Write("Hvor gammel mener du man skal være for man er gammel? ");
             oldAge = int.Parse(Console.ReadLine());
 

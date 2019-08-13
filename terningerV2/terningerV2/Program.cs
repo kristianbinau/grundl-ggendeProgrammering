@@ -6,6 +6,7 @@ namespace terningerV2
     {
         static void Main(string[] args)
         {
+            //TEST - INTET AF DET VIRKER
             Random dice = new Random();
             int numDice;
             int trow;

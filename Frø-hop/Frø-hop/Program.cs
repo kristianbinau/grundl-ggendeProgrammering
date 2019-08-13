@@ -6,11 +6,15 @@ namespace Frø_hop
     {
         static void Main(string[] args)
         {
+            //Start
             int X = 10;
+            //Mål
             int Y = 8676461;
+            //Længde
             int D = 3;
             int hop;
 
+            //Hopper indtil mål
             for (hop = 1 ; X <= (Y - 1); hop++)
             {
                 X = X + D;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\lommeregner\\lommeregner\\lommeregner.csproj": {}
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\lommeregner\\lommeregner\\lommeregner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\lommeregner\\lommeregner\\lommeregner.csproj": {
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\lommeregner\\lommeregner\\lommeregner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\lommeregner\\lommeregner\\lommeregner.csproj",
+        "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\lommeregner\\lommeregner\\lommeregner.csproj",
         "projectName": "lommeregner",
-        "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\lommeregner\\lommeregner\\lommeregner.csproj",
+        "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\lommeregner\\lommeregner\\lommeregner.csproj",
         "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\lommeregner\\lommeregner\\obj\\",
+        "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\lommeregner\\lommeregner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,6 +7,7 @@ namespace testingGrounds
     {
         static void Main(string[] args)
         {
+            //List tests
             List<int> myInts = new List<int>();
             myInts.Add(5);
             myInts.Add(10);
