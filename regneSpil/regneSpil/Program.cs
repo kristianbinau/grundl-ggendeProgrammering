@@ -22,7 +22,7 @@ namespace regneSpil
 
 
             //Infinite Loop
-            for (int i = 0; i < 9999; i++)
+            for (int i = 0; i < 9999; i--)
             {
                 //User-input
                 Console.WriteLine("Hvilken disciplin vil du op i?");
@@ -38,49 +38,25 @@ namespace regneSpil
                 switch (disciplin)
                 {
                     case "+":
-                        disciplinFunction(difficulty, minusOrPlus, "+");
-                        break;
-
-                    case "-":
-                        disciplinFunction(difficulty, minusOrPlus, "-");
-                        break;
-
-                    case "*":
-                        disciplinFunction(difficulty, minusOrPlus, "*");
-                        break;
-
-                    case "/":
-                        disciplinFunction(difficulty, minusOrPlus, "/");
-                        break;
-
                     case "plus":
-                        disciplinFunction(difficulty, minusOrPlus, "+");
-                        break;
-
-                    case "minus":
-                        disciplinFunction(difficulty, minusOrPlus, "-");
-                        break;
-
-                    case "gange":
-                        disciplinFunction(difficulty, minusOrPlus, "*");
-                        break;
-
-                    case "dividere":
-                        disciplinFunction(difficulty, minusOrPlus, "/");
-                        break;
-
                     case "Plus":
                         disciplinFunction(difficulty, minusOrPlus, "+");
                         break;
 
+                    case "-":
+                    case "minus":
                     case "Minus":
                         disciplinFunction(difficulty, minusOrPlus, "-");
                         break;
 
+                    case "*":
+                    case "gange":
                     case "Gange":
                         disciplinFunction(difficulty, minusOrPlus, "*");
                         break;
 
+                    case "/":
+                    case "dividere":
                     case "Dividere":
                         disciplinFunction(difficulty, minusOrPlus, "/");
                         break;
@@ -93,7 +69,7 @@ namespace regneSpil
                 
             }
         }
-        //Plus
+
         static void disciplinFunction(int d, string e, string f)
         {
             int points = d * 100;
@@ -108,6 +84,7 @@ namespace regneSpil
 
                 int trueResult;
 
+                //Vælger disciplin
                 switch (disciplin)
                     {
                     case "+":
@@ -144,10 +121,12 @@ namespace regneSpil
                 //Counting Tries
                 for (int i = 1; i <= 3; i++)
                 {
+                    //User-input
                     ansResult = int.Parse(Console.ReadLine());
 
                     if (ansResult == trueResult)
                     {
+                        //Rigtig
                         Console.WriteLine("Hurra! Du regnede rigtigt, du brugte " + (i) + " forsøg!");
                         points = points + 10;
                         Console.WriteLine("Du fik 10 points!");
@@ -156,6 +135,7 @@ namespace regneSpil
                     }
                     else
                     {
+                        //Forkert
                         if (i <= 2)
                         {
                             Console.WriteLine("Øv... Du regnede ikke rigtigt, det er vel okay for du har " + (3 - i) + " forsøg tilbage!");
@@ -190,7 +170,7 @@ namespace regneSpil
             }
             Console.WriteLine(" ");
         }
- 
+        //Random-number generator
         static int difficultyRandomNumber(int diff, string overAndUnder)
         {
             int plusOrMinus;
@@ -201,23 +181,17 @@ namespace regneSpil
             switch (overAndUnder)
             {
                 case "+":
-                    plusOrMinus = 0;
-                    break;
                 case "plus":
-                    plusOrMinus = 0;
-                    break;
                 case "Plus":
                     plusOrMinus = 0;
                     break;
+
                 case "-":
-                    plusOrMinus = 5;
-                    break;
                 case "minus":
-                    plusOrMinus = 5;
-                    break;
                 case "Minus":
                     plusOrMinus = 5;
                     break;
+                
                 default:
                     Console.WriteLine("Du intastede ikke et rigtigt '+' eller '-'!");
                     plusOrMinus = 0;
@@ -270,6 +244,7 @@ namespace regneSpil
                     difficultyMin = -100000001;
                     difficultyMax = -10001;
                     break;
+
                 default:
                     Console.WriteLine("Du intastede ikke en sværhedsgrad mellem 1-5!");
                     difficultyMax = 69;

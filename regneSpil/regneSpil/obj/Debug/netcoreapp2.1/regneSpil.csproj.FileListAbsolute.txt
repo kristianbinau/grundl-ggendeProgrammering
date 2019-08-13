@@ -9,3 +9,14 @@ C:\Users\Kristian Binau\source\repos\grundlæggendeProgrammering\regneSpil\regne
 C:\Users\Kristian Binau\source\repos\grundlæggendeProgrammering\regneSpil\regneSpil\bin\Debug\netcoreapp2.1\regneSpil.pdb
 C:\Users\Kristian Binau\source\repos\grundlæggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.dll
 C:\Users\Kristian Binau\source\repos\grundlæggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.pdb
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\bin\Debug\netcoreapp2.1\regneSpil.deps.json
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\bin\Debug\netcoreapp2.1\regneSpil.runtimeconfig.json
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\bin\Debug\netcoreapp2.1\regneSpil.runtimeconfig.dev.json
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\bin\Debug\netcoreapp2.1\regneSpil.dll
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\bin\Debug\netcoreapp2.1\regneSpil.pdb
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.csprojAssemblyReference.cache
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.csproj.CoreCompileInputs.cache
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.AssemblyInfoInputs.cache
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.AssemblyInfo.cs
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.dll
+C:\Users\Kristian Binau\Documents\GitHub\grundl-ggendeProgrammering\regneSpil\regneSpil\obj\Debug\netcoreapp2.1\regneSpil.pdb
