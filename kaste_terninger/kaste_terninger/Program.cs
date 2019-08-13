@@ -6,15 +6,18 @@ namespace kaste_Terninger
     {
         static void Main(string[] args)
         {
+            //Variables
             Random dice = new Random();
             int numDice;
             int trow;
             var trowCount = 0;
             var trowAll = 0;
             
+            //USer-input
             Console.Write("Hvor mange terninger vil du bruge: ");
             numDice = int.Parse(Console.ReadLine());
 
+            //Smider 1 terning med 6 * antal terninger sider, og stopper først når der bliver slået det højeste tal.
             do
             {
                 trow = dice.Next(1, (7 + (6 * numDice)));

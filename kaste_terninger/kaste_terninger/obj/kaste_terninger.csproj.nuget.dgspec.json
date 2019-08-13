@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj": {}
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj": {
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj",
+        "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj",
         "projectName": "kaste_Terninger",
-        "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj",
+        "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\kaste_terninger\\kaste_terninger\\kaste_Terninger.csproj",
         "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\kaste_terninger\\kaste_terninger\\obj\\",
+        "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\kaste_terninger\\kaste_terninger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

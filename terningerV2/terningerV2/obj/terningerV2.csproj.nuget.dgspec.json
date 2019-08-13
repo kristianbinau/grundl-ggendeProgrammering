@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\terningerV2\\terningerV2\\terningerV2.csproj": {}
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\terningerV2\\terningerV2\\terningerV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\terningerV2\\terningerV2\\terningerV2.csproj": {
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\terningerV2\\terningerV2\\terningerV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\terningerV2\\terningerV2\\terningerV2.csproj",
+        "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\terningerV2\\terningerV2\\terningerV2.csproj",
         "projectName": "terningerV2",
-        "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\terningerV2\\terningerV2\\terningerV2.csproj",
+        "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\terningerV2\\terningerV2\\terningerV2.csproj",
         "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\terningerV2\\terningerV2\\obj\\",
+        "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\terningerV2\\terningerV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

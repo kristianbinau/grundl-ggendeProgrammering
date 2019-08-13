@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\findIkkeParV2\\findIkkeParV2\\findIkkeParV2.csproj",
+      "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkeParV2\\findIkkeParV2\\findIkkeParV2.csproj",
       "projectName": "findIkkeParV2",
-      "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\findIkkeParV2\\findIkkeParV2\\findIkkeParV2.csproj",
+      "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkeParV2\\findIkkeParV2\\findIkkeParV2.csproj",
       "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\findIkkeParV2\\findIkkeParV2\\obj\\",
+      "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\findIkkeParV2\\findIkkeParV2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

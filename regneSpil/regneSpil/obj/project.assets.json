@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\grundlæggendeProgrammering\\regneSpil\\regneSpil\\regneSpil.csproj",
+      "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\regneSpil\\regneSpil\\regneSpil.csproj",
       "projectName": "regneSpil",
-      "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\grundlæggendeProgrammering\\regneSpil\\regneSpil\\regneSpil.csproj",
+      "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\regneSpil\\regneSpil\\regneSpil.csproj",
       "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\grundlæggendeProgrammering\\regneSpil\\regneSpil\\obj\\",
+      "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\regneSpil\\regneSpil\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\testingGrounds\\testingGrounds\\testingGrounds.csproj": {}
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\testingGrounds\\testingGrounds\\testingGrounds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kristian Binau\\source\\repos\\testingGrounds\\testingGrounds\\testingGrounds.csproj": {
+    "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\testingGrounds\\testingGrounds\\testingGrounds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kristian Binau\\source\\repos\\testingGrounds\\testingGrounds\\testingGrounds.csproj",
+        "projectUniqueName": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\testingGrounds\\testingGrounds\\testingGrounds.csproj",
         "projectName": "testingGrounds",
-        "projectPath": "C:\\Users\\Kristian Binau\\source\\repos\\testingGrounds\\testingGrounds\\testingGrounds.csproj",
+        "projectPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\testingGrounds\\testingGrounds\\testingGrounds.csproj",
         "packagesPath": "C:\\Users\\Kristian Binau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristian Binau\\source\\repos\\testingGrounds\\testingGrounds\\obj\\",
+        "outputPath": "C:\\Users\\Kristian Binau\\Documents\\GitHub\\grundl-ggendeProgrammering\\testingGrounds\\testingGrounds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
