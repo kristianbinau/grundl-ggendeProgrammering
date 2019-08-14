@@ -20,7 +20,7 @@ namespace kaste_Terninger
             //Smider 1 terning med 6 * antal terninger sider, og stopper først når der bliver slået det højeste tal.
             do
             {
-                trow = dice.Next(1, (7 + (6 * numDice)));
+                trow = dice.Next(1, Convert.ToInt32(Math.Pow(6,numDice)));
                 trowCount++;
                 Console.WriteLine("Kast: " + trowCount);
             } while (trow != 6 * numDice);
