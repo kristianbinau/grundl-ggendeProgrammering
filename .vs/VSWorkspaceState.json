@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\regneSpil"
+    "\\HelloWorld",
+    "\\regneSpil",
+    "\\regneSpil\\regneSpil"
   ],
-  "SelectedNode": "\\regneSpil\\regneSpil.sln",
+  "SelectedNode": "\\HelloWorld\\HelloWorld.sln",
   "PreviewInSolutionExplorer": false
 }
